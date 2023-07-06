@@ -1,5 +1,7 @@
 ## Description
 
+## This is the uncooked version, it will not receive any update
+
 This is the github repository of the **mod project** folder for my [Playable Rulers mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2823002635). 
 This will be the most up to date project folder from the mod, even before it's on steam.
 
